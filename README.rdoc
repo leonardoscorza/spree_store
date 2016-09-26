@@ -1,7 +1,7 @@
 == README
 
-E-commerce criando usando Spree como um tutorial (Screencast) para o Blog http://onebitcode.com.
-Para acessar o documentação de criação desse e-commerce acesse o tutorial em: http://onebitcode.com/criando-um-e-commerce-com-spree/
+E-commerce criando usando Spree como um tutorial (Screencast) para o Blog http://www.onebitcode.com.
+Para acessar o documentação de criação desse e-commerce acesse o tutorial em: http://www.onebitcode.com/criando-um-e-commerce-com-spree/
 
 Ingredientes do tutorial:
 
@@ -12,3 +12,7 @@ Ingredientes do tutorial:
 * Spree 3.1.0
 * Spree Static Content 3.1.0
 * Spree i18n 3.1.0
+
+Configurações:
+* É necessário configurar os acessos ao banco de dados PostgreSql no arquivo config/database.yml
+* É necessário rodar as migrations e o seed "rake db:migrate" e "rake db:seed"
