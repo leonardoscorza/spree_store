@@ -1,0 +1,14 @@
+== README
+
+E-commerce criando usando Spree como um tutorial (Screencast) para o Blog http://onebitcode.com.
+Para acessar o documentação de criação desse e-commerce acesse o tutorial em: http://onebitcode.com/criando-um-e-commerce-com-spree/
+
+Ingredientes do tutorial:
+
+* Ruby 2.3.1
+* ruby 2.3.1
+* rails 4.2.6
+* PostgreSql 9.5
+* Spree 3.1.0
+* Spree Static Content 3.1.0
+* Spree i18n 3.1.0
